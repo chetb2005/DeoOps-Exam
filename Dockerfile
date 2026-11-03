@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.html /var/www/html/
+COPY index.nginx-debian.html /var/www/html/
